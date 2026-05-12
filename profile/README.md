@@ -2,6 +2,8 @@
 
 **Crafting stellar card game experiences**
 
+![_](assets/astra-galaxia-universe.webp)
+
 ---
 
 ## Astra Galaxia
